@@ -21,7 +21,7 @@ namespace Xamerian.AppCenter
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-            MSAppCenter.Start("faf50fc5-55ee-4e2e-b3fe-682880f8cb5d", services: new Class[] { new MSAnalytics().Class, new MSCrashes().Class });
+            MSAppCenter.Start("APP CENTER KEY", services: new Class[] { new MSAnalytics().Class, new MSCrashes().Class });
             return true;
         }
 
