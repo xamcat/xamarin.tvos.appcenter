@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamerian.AppCenter", "Xamerian.AppCenter\Xamerian.AppCenter.csproj", "{8006C522-74FE-4913-8C23-6AFF9FEC7823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamCat.AppCenter.tvOS", "XamCat.AppCenter.tvOS\XamCat.AppCenter.tvOS.csproj", "{55420445-3775-41B5-ADEA-1CD7C843DEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Release|iPhone.ActiveCfg = Release|iPhone
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Release|iPhone.Build.0 = Release|iPhone
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{8006C522-74FE-4913-8C23-6AFF9FEC7823}.Debug|iPhone.Build.0 = Debug|iPhone
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Release|iPhone.Build.0 = Release|Any CPU
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{55420445-3775-41B5-ADEA-1CD7C843DEF0}.Debug|iPhone.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
